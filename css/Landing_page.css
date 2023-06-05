@@ -182,6 +182,7 @@ p {
 
 .main-1 ul {
   display: flex;
+  overflow: scroll;
 }
 .main-1 ul li {
   list-style: none;
